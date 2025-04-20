@@ -1,0 +1,5 @@
+@echo off
+title teto virus
+start pear.webp
+start loop.bat
+exit
